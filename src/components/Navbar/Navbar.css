@@ -1,0 +1,13 @@
+.navigation {
+  display:flex;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.nav1 {
+  border-right: 2px solid black;
+}
+
+.nav {
+  padding: 0px 20px 5px 20px;
+}
